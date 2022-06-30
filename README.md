@@ -6,3 +6,6 @@ Um pouco mais de texto.
 Modificado no VSCode em um git clone via SSH 
 
 #### Nada novo, apenas teste
+
+### Branch: feature-readme-instructions 
+1. Abra o `index.html`
